@@ -359,8 +359,10 @@ merger first print a line starting with `ERROR:`, followed by
 
 The current release is v3.3. This repository also includes:
 
-- [history/original-v3.2.ps1](history/original-v3.2.ps1) — the previous version
-- [history/v3.2-to-v3.3.diff](history/v3.2-to-v3.3.diff) — the changes from v3.2 to v3.3
+- [history/original-v3.2.ps1](history/original-v3.2.ps1) - the previous version
+- [history/v3.2-to-v3.3.diff](history/v3.2-to-v3.3.diff) - the changes from v3.2 to v3.3
+
+v3.2 is superseded and unsupported, kept only for comparison; do not run it.
 
 **v3.3**
 

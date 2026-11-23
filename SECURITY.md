@@ -9,22 +9,11 @@
 
 ## Reporting a vulnerability
 
-Please report vulnerabilities privately rather than opening a public issue.
+Please report vulnerabilities privately via this repository's Security tab -> "Report a vulnerability":
 
-The intended path is [GitHub private vulnerability reporting](https://docs.github.com/en/code-security/security-advisories/guidance-on-reporting-and-writing-information-about-vulnerabilities/privately-reporting-a-security-vulnerability) / [Security Advisories](https://docs.github.com/en/code-security/security-advisories) on this repository.
+https://github.com/rageousk/secure-pdf-combiner/security/advisories/new
 
-**This must be enabled in the repository settings** (Code security and analysis / Private vulnerability reporting). That is a settings change and needs the repository owner's approval. It is not enabled by staging these files alone.
-
-Until that setting is turned on, there is no in-repo private reporting form.
-Do not file a public issue for a security problem.
-
-Once private vulnerability reporting is enabled, submit reports from the
-Security Advisories page on this repository:
-
-https://github.com/rageousk/secure-pdf-combiner/security/advisories
-
-An alternative contact email can be added to this file later if the owner
-wants one.
+Do not open a public issue for a security problem.
 
 ## Release hashes
 
