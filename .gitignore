@@ -1,0 +1,9 @@
+.ruff_cache/
+__pycache__/
+.venv/
+node_modules/
+lint/
+.DS_Store
+*.pyc
+.env
+*.pdf
